@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /login
+Disallow: /register
+Disallow: /password/
+Disallow: /policy
+Disallow: /admin/
+
+Sitemap: https://autovokzal-on-line.ru/sitemap.xml
